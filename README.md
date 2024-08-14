@@ -1,1 +1,1 @@
-![My Project Poster](screenshots/screen(1).png)
+![My Project Poster](ScreenShots/screen(1).jpeg)
